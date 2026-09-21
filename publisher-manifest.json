@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7577945cd9e49061c13260cf",
+  "owner": "br5cqyxe",
+  "repo": "page-42b33887773b1ac73b31a7eb",
+  "title": "诚信vpn",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "42b33887773b1ac73b31a7eb",
+      "a": "诚信vpn",
+      "b": "2027官方最新地址导航",
+      "entity": "诚信vpn",
+      "brand": "诚信vpn",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8a3343de4d5f8e12e8ea31b9eebf0e828cf554e7c9d2e1e5b3af4f122c189a02",
+      "content": {
+        "primary_entity": "诚信vpn",
+        "keyword1": "诚信vpn",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，Windows、macOS、Android、iOS 与路由器各有适配版本。",
+          "AI_CLIENTS_TITLE": "客户端按设备挑选",
+          "AI_CLOSING_TEXT": "选好套餐，下载匹配设备客户端，导入订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "选套餐配客户端",
+          "AI_DESCRIPTION": "，围绕设备数量、月流量和订阅周期提供三档方案，基础版适合手机与电脑轻度使用，旗舰版覆盖流媒体与游戏场景，团队版面向多设备协同。按年付可节省月付开支，客户端覆盖 Windows、macOS、Android、iOS 与路由器等常见平台。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求到订阅周期，三个角度快速判断。",
+          "AI_FEATURES_TITLE": "选择前可关注",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15 含 100GB 流量与 3 台设备，旗舰版 ¥35 含 300GB 与 5 台设备，团队版 ¥85 含 1000GB 与 20 台设备。",
+          "AI_FEATURE_TEXT_2": "手机、平板、电脑按数量计入，路由器可按整网设备共享，多设备用户优先考虑旗舰版或团队版。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用年付更省。",
+          "AI_FEATURE_TITLE_1": "套餐按流量分档",
+          "AI_FEATURE_TITLE_2": "设备数量对应选择",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置，不依赖复杂操作。",
+          "AI_GUIDE_TITLE": "使用三步走",
+          "AI_HERO_INTRO": "诚信vpn 提供海外加速服务，按设备数量与流量需求划分基础版、旗舰版与团队版，客户端覆盖主流平台，订阅后导入配置即可使用。",
+          "AI_HERO_SUBTITLE": "海外加速按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "客户端适配多类设备",
+          "AI_HIGHLIGHT_3": "年付方案节省月付开支",
+          "AI_PLANS_INTRO": "基础版 100GB/3 台设备，旗舰版 300GB/5 台设备，团队版 1000GB/20 台设备，按年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量，在基础版、旗舰版与团队版之间确定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限与客户端适配平台，确认当前设备可以安装。",
+          "AI_STEP_TEXT_3": "下载对应客户端，按客户端文档导入订阅信息并完成连接配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "诚信vpn 海外加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "诚信vpn 的套餐有什么区别？",
+          "AI_FAQ_ANSWER_1": "三档套餐主要区别在每月流量、同时在线设备数和线路类型。基础版适合少量设备日常使用，旗舰版增加 IPLC 专线和流媒体解锁，团队版面向高流量多设备场景。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超过数量限制时，需要先断开其他设备的连接。",
+          "AI_FAQ_QUESTION_3": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_3": "在客户端中复制订阅链接，按照对应客户端文档的导入步骤操作即可。不同设备客户端界面略有差异，建议以客户端内说明为准。",
+          "AI_FAQ_QUESTION_4": "年付和月付哪个更划算？",
+          "AI_FAQ_ANSWER_4": "年付价格低于按月支付总额。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用可选年付。",
+          "AI_FAQ_QUESTION_5": "支持哪些设备使用？",
+          "AI_FAQ_ANSWER_5": "可在常见的电脑、手机客户端上配置使用，部分路由器也可通过订阅导入。不同平台客户端功能有差异，建议按设备类型选择对应客户端。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "alcbc.cn",
+    "host": "alcbc.cn"
+  },
+  "file_hashes": {
+    "index.html": "f77aed54b6fd09438b87e67f68be4e17b56f88f519e8cce62a28fbf968cdc86d",
+    "sitemap.xml": "7915221a09937b0c33ab99ee75145fcabaf15e24cf20b7589cd828182f7c4826",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3d4e747360c73fbaf77716ff2977a52efe3c21612b9b90e304c6a070b1f000ca",
+    "robots.txt": "412292de8f69451ae310e4429cefd06f4d0312f0d2907cdd8387cbc8c7884bcb",
+    "6dd36c82c78441f6a8ddf6f640ede056.txt": "d72005b83025290ba3189087442f5a1b1a143df111fc36492a6df3f24fbfe345"
+  },
+  "revision": "216994b51d5d5c5b68a40eed18a4e790a5b9c2e88dadb2c85c53befefee7c5c0"
+}
